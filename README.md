@@ -1,6 +1,8 @@
 # Financial_Analysis:
 This Streamlit application is designed for analyzing historical loan application data to gain insights into repayment behaviors. By delving into past records, the aim is to identify patterns and factors indicative of loan default risks. The focus is on maintaining fairness in lending decisions while minimizing financial losses for the company.
 
+![Financial Analysis](https://mbanotesworld.com/wp-content/uploads/2021/08/financial-analysis-1.jpg)
+
 # Features:
 
 •	Dashboard Layout: The application has a user-friendly layout with different sections for analysis.
